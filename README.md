@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Shiva Rama krishna
 
  
 This project was created with CRA (Create React App)
